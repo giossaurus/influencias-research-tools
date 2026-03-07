@@ -1,0 +1,477 @@
+2026-03-07 19:15:12,291 [INFO] main: ============================================================
+2026-03-07 19:15:12,291 [INFO] main: Iniciando Fase 1 — Reddit Raw Scraper
+2026-03-07 19:15:12,291 [INFO] main: Saída: /Users/giossaurus/Developer/influencias-research-tools/data/raw/raw_reddit_data.jsonl
+2026-03-07 19:15:12,291 [INFO] main: Subreddits: ['TikTokMonetizing', 'TikTok', 'socialmedia', 'NewTubers', 'ContentCreation', 'Influencers']
+2026-03-07 19:15:12,291 [INFO] main: Keywords: 15 total
+2026-03-07 19:15:12,291 [INFO] main: ============================================================
+2026-03-07 19:15:12,816 [INFO] scraper.browser: Browser iniciado (headless=True).
+2026-03-07 19:15:12,988 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'TikTok algorithm' → https://www.reddit.com/r/TikTokMonetizing/search/?q=TikTok+algorithm&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:15:28,932 [INFO] scraper.reddit_scraper:   → 40 links coletados para r/TikTokMonetizing | 'TikTok algorithm'
+2026-03-07 19:15:28,967 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r5r6v5/been_viral_too_many_times_to_count_these_tricks
+2026-03-07 19:15:33,799 [INFO] scraper.reddit_scraper:   [OK] Salvo #1 — 'Been Viral Too Many Times to Count - These Tricks Always Hel'
+2026-03-07 19:15:38,080 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ot7xi2/how_can_i_target_a_usa_audience_on_tiktok_while
+2026-03-07 19:15:41,128 [INFO] scraper.reddit_scraper:   [OK] Salvo #2 — 'How can I target a USA audience on TikTok while living in Eu'
+2026-03-07 19:15:44,020 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pgqqvh/need_advice_on_training_the_algorithm
+2026-03-07 19:15:48,180 [INFO] scraper.reddit_scraper:   [OK] Salvo #3 — 'Need advice on training the algorithm'
+2026-03-07 19:15:52,368 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r0us6v/tiktok_algorithm_is_so_weird_the_video_was
+2026-03-07 19:15:55,240 [INFO] scraper.reddit_scraper:   [OK] Salvo #4 — 'Tiktok algorithm is so weird, the video was blowing up then '
+2026-03-07 19:15:59,107 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qoijwr/tiktok_algorithm
+2026-03-07 19:16:03,637 [INFO] scraper.reddit_scraper:   [OK] Salvo #5 — 'Tiktok algorithm'
+2026-03-07 19:16:07,303 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ppc5x7/i_hate_the_american_tiktok_algorithm
+2026-03-07 19:16:12,727 [INFO] scraper.reddit_scraper:   [OK] Salvo #6 — 'I hate the American TikTok algorithm'
+2026-03-07 19:16:16,467 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ogv4n3/how_i_took_a_faceless_tiktok_account_from_0_to
+2026-03-07 19:16:20,975 [INFO] scraper.reddit_scraper:   [OK] Salvo #7 — 'How I Took a Faceless TikTok Account From 0 to 30K Views in '
+2026-03-07 19:16:23,685 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ocvk8n/control_the_tiktok_algorithm
+2026-03-07 19:16:29,084 [INFO] scraper.reddit_scraper:   [OK] Salvo #8 — 'CONTROL the TikTok Algorithm'
+2026-03-07 19:16:31,790 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1p2zsyz/can_this_method_actually_improve_views_on_tiktok
+2026-03-07 19:16:36,770 [INFO] scraper.reddit_scraper:   [OK] Salvo #9 — 'Can this method actually improve views on TikTok? I'm testin'
+2026-03-07 19:16:40,009 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1p5k29u/these_6_things_actually_determine_your_reach
+2026-03-07 19:16:44,779 [INFO] scraper.reddit_scraper:   [OK] Salvo #10 — 'These 6 things actually determine your reach'
+2026-03-07 19:16:49,393 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qkndif/my_tiktok_blew_up_thinking_of_quitting
+2026-03-07 19:16:54,404 [INFO] scraper.reddit_scraper:   [OK] Salvo #11 — 'My TikTok blew up - Thinking of quitting'
+2026-03-07 19:16:56,717 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pgz70b/the_best_way_to_monetize_tiktok
+2026-03-07 19:17:00,550 [INFO] scraper.reddit_scraper:   [OK] Salvo #12 — 'The BEST way to Monetize TikTok...'
+2026-03-07 19:17:05,520 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1lal33u/the_secret_behind_my_first_freelance_win_tiktok
+2026-03-07 19:17:10,051 [INFO] scraper.reddit_scraper:   [OK] Salvo #13 — 'The Secret Behind My First Freelance Win: TikTok + Strategy'
+2026-03-07 19:17:12,637 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1okbdfm/ultrahigh_engagement_low_views_whats_happening
+2026-03-07 19:17:15,684 [INFO] scraper.reddit_scraper:   [OK] Salvo #14 — 'Ultra-high engagement, low views... what's happening?'
+2026-03-07 19:17:19,084 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r789re/i_finally_automated_my_entire_reddit_story_tiktok
+2026-03-07 19:17:21,999 [INFO] scraper.reddit_scraper:   [OK] Salvo #15 — 'I finally automated my entire "Reddit Story" TikTok workflow'
+2026-03-07 19:17:24,899 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pgi3cf/can_everyone_take_a_look_at_my_video_and_tell_me
+2026-03-07 19:17:28,131 [INFO] scraper.reddit_scraper:   [OK] Salvo #16 — '“Can everyone take a look at my video and tell me why it get'
+2026-03-07 19:17:32,694 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1oc1qgm/struggling_to_get_my_tiktok_content_seen_by_the
+2026-03-07 19:17:37,623 [INFO] scraper.reddit_scraper:   [OK] Salvo #17 — 'Struggling to get my tiktok content seen by the right audien'
+2026-03-07 19:17:40,792 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1osr4ey/tiktok_growth
+2026-03-07 19:17:44,622 [INFO] scraper.reddit_scraper:   [OK] Salvo #18 — 'Tiktok Growth'
+2026-03-07 19:17:48,573 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1obmxbf/how_can_i_get_my_tiktok_videos_seen_by_more_people
+2026-03-07 19:17:51,184 [INFO] scraper.reddit_scraper:   [OK] Salvo #19 — 'How can I get my TikTok videos seen by more people?'
+2026-03-07 19:17:54,831 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1osubgx/240k_followers_on_us_account_think_im_done_with
+2026-03-07 19:17:58,205 [INFO] scraper.reddit_scraper:   [OK] Salvo #20 — '240k followers on US account. Think I’m done with TikTok.'
+2026-03-07 19:18:01,376 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1otzhdv/is_tiktok_mod_is_safe_for_posting_videos
+2026-03-07 19:18:04,210 [INFO] scraper.reddit_scraper:   [OK] Salvo #21 — 'Is TikTok Mod is safe for posting videos?'
+2026-03-07 19:18:07,725 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pi80ng/is_there_a_reliable_place_to_buy_tiktok_views
+2026-03-07 19:18:13,538 [INFO] scraper.reddit_scraper:   [OK] Salvo #22 — 'Is there a reliable place to buy TikTok views that lead to r'
+2026-03-07 19:18:17,431 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ned3j6/my_clients_tiktok_got_5_million_views_and_exactly
+2026-03-07 19:18:23,848 [INFO] scraper.reddit_scraper:   [OK] Salvo #23 — 'My client's TikTok got 5 million views and exactly 3 sales. '
+2026-03-07 19:18:28,336 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ralb85/help_me
+2026-03-07 19:18:32,912 [INFO] scraper.reddit_scraper:   [OK] Salvo #24 — 'Help me'
+2026-03-07 19:18:36,318 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rcd5ms/my_girlfriend_told_me_my_tiktok_content_was
+2026-03-07 19:18:39,167 [INFO] scraper.reddit_scraper:   [OK] Salvo #25 — 'My girlfriend told me my tiktok content was boring. She was '
+2026-03-07 19:18:42,722 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1or0zb7/im_not_getting_enough_views_please_help
+2026-03-07 19:18:47,884 [INFO] scraper.reddit_scraper:   [OK] Salvo #26 — 'I’m not getting enough views, please help'
+2026-03-07 19:18:51,773 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qu7l7p/is_it_safe_to_run_multiple_tiktok_accounts_on_the
+2026-03-07 19:18:55,249 [INFO] scraper.reddit_scraper:   [OK] Salvo #27 — 'Is it safe to run multiple TikTok accounts on the same phone'
+2026-03-07 19:18:57,741 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pc6qhy/which_service_is_safest_if_i_buy_tiktok_likes_for
+2026-03-07 19:19:02,011 [INFO] scraper.reddit_scraper:   [OK] Salvo #28 — 'Which service is safest if I Buy TikTok Likes for the first '
+2026-03-07 19:19:04,721 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qkl17n/what_is_the_best_site_to_buy_tiktok_followers
+2026-03-07 19:19:09,909 [INFO] scraper.reddit_scraper:   [OK] Salvo #29 — 'What is the best site to buy TikTok followers safely? Need h'
+2026-03-07 19:19:12,161 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1npnoz1/struggling_with_just_about_everything_rn
+2026-03-07 19:19:17,346 [INFO] scraper.reddit_scraper:   [OK] Salvo #30 — 'Struggling with just about everything rn'
+2026-03-07 19:19:19,526 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r1lnst/double_posting_to_fix_low_views
+2026-03-07 19:19:23,322 [INFO] scraper.reddit_scraper:   [OK] Salvo #31 — 'Double posting to fix low views?'
+2026-03-07 19:19:28,236 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r1gved/for_those_of_you_getting_no_views_on_your_tiktok
+2026-03-07 19:19:31,299 [INFO] scraper.reddit_scraper:   [OK] Salvo #32 — 'For Those of you Getting no Views on your TikTok Page Pre-mo'
+2026-03-07 19:19:36,093 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r8gm52/like_to_views_ratio
+2026-03-07 19:19:41,130 [INFO] scraper.reddit_scraper:   [OK] Salvo #33 — 'Like to Views ratio'
+2026-03-07 19:19:43,455 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1n9rhge/tiktok_shadowbans_myth_reality_or_just_bad_content
+2026-03-07 19:19:48,999 [INFO] scraper.reddit_scraper:   [OK] Salvo #34 — 'TikTok shadowbans: myth, reality, or just bad content?'
+2026-03-07 19:19:52,151 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1of5pvd/does_liking_other_creators_comments_really_help
+2026-03-07 19:19:55,934 [INFO] scraper.reddit_scraper:   [OK] Salvo #35 — 'Does liking other creators' comments really help you grow on'
+2026-03-07 19:19:58,752 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qcdybq/what_can_i_do_to_target_younger_audience_no
+2026-03-07 19:20:03,843 [INFO] scraper.reddit_scraper:   [OK] Salvo #36 — 'What can i do to target younger audience, no matter what I d'
+2026-03-07 19:20:08,281 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1o2v6v5/tiktok_shadowban_bcs_posted_4_vids_in_24hrs_on_a
+2026-03-07 19:20:11,663 [INFO] scraper.reddit_scraper:   [OK] Salvo #37 — 'Tiktok shadowban bcs posted 4 vids in 24hrs on a dormant acc'
+2026-03-07 19:20:14,197 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1otcqmo/wheres_the_best_place_to_buy_tiktok_followers
+2026-03-07 19:20:18,493 [INFO] scraper.reddit_scraper:   [OK] Salvo #38 — 'Where’s the Best Place to Buy TikTok Followers That Are Acti'
+2026-03-07 19:20:22,863 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1oye5hy/im_getting_more_views_than_tiktok_is_displaying
+2026-03-07 19:20:26,995 [INFO] scraper.reddit_scraper:   [OK] Salvo #39 — 'I’m getting more views than TikTok is displaying'
+2026-03-07 19:20:29,354 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r05yve/less_then_50_fyp_views_suddenly
+2026-03-07 19:20:34,206 [INFO] scraper.reddit_scraper:   [OK] Salvo #40 — 'Less then 50 fyp views suddenly'
+2026-03-07 19:20:36,766 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'algorithm changed' → https://www.reddit.com/r/TikTokMonetizing/search/?q=algorithm+changed&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:20:58,058 [INFO] scraper.reddit_scraper:   → 28 links coletados para r/TikTokMonetizing | 'algorithm changed'
+2026-03-07 19:20:58,123 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1oz3mpg/your_engagement_rate_is_ghosting_the_algorithm
+2026-03-07 19:21:02,878 [INFO] scraper.reddit_scraper:   [OK] Salvo #41 — 'Your Engagement Rate is Ghosting the Algorithm'
+2026-03-07 19:21:06,462 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1p8593i/working_with_the_american_algorithm_on_tiktok_is
+2026-03-07 19:21:10,185 [INFO] scraper.reddit_scraper:   [OK] Salvo #42 — 'Working with the American algorithm on TikTok is like workin'
+2026-03-07 19:21:12,895 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1oq9d7u/finally_figured_out_why_my_videos_always_die_at
+2026-03-07 19:21:18,321 [INFO] scraper.reddit_scraper:   [OK] Salvo #43 — 'Finally figured out why my videos always die at 2k views'
+2026-03-07 19:21:23,042 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1q85mqy/the_60second_test_killing_your_videos
+2026-03-07 19:21:27,925 [INFO] scraper.reddit_scraper:   [OK] Salvo #44 — 'The 60-Second Test Killing Your Videos'
+2026-03-07 19:21:31,779 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qirtj9/why_videos_you_think_are_good_die_at_1k_views
+2026-03-07 19:21:36,583 [INFO] scraper.reddit_scraper:   [OK] Salvo #45 — 'Why videos you think are good die at 1k views'
+2026-03-07 19:21:39,495 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r9rapl/took_me_way_too_long_to_figure_out_what_was
+2026-03-07 19:21:44,684 [INFO] scraper.reddit_scraper:   [OK] Salvo #46 — 'Took me way too long to figure out what was killing my video'
+2026-03-07 19:21:49,626 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rncnwd/posted_for_months_stuck_at_300_and_just_now
+2026-03-07 19:21:52,736 [INFO] scraper.reddit_scraper:   [OK] Salvo #47 — 'Posted for months stuck at 300 and just now figured out what'
+2026-03-07 19:21:56,520 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r3sslk/what_i_learned_at_tiktok_live_fest_creator
+2026-03-07 19:22:00,233 [INFO] scraper.reddit_scraper:   [OK] Salvo #48 — 'What I Learned at TikTok LIVE Fest + Creator Network Summit '
+2026-03-07 19:22:02,829 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qwljaj/erroneously_disqualified_videos
+2026-03-07 19:22:06,977 [INFO] scraper.reddit_scraper:   [OK] Salvo #49 — 'Erroneously Disqualified Videos'
+2026-03-07 19:22:10,455 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r1zddj/induce_views_from_emotions
+2026-03-07 19:22:13,801 [INFO] scraper.reddit_scraper:   [OK] Salvo #50 — 'Induce views from emotions!!'
+2026-03-07 19:22:17,432 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qsvrig/content_getting_pushed_to_asia
+2026-03-07 19:22:22,002 [INFO] scraper.reddit_scraper:   [OK] Salvo #51 — 'Content getting pushed to Asia'
+2026-03-07 19:22:25,827 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rlis5g/all_my_videos_stuck_at_300_views_and_i_just_now
+2026-03-07 19:22:29,428 [INFO] scraper.reddit_scraper:   [OK] Salvo #52 — 'All my videos stuck at 300 views and I just now figured out '
+2026-03-07 19:22:33,861 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r682zo/i_stopped_posting_for_15_days_and_when_i_came
+2026-03-07 19:22:39,286 [INFO] scraper.reddit_scraper:   [OK] Salvo #53 — 'I stopped posting for 15 days and when I came back to post a'
+2026-03-07 19:22:43,133 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r4zdmc/tiktok_keeps_flagging_my_cat_rescue_adoption
+2026-03-07 19:22:46,841 [INFO] scraper.reddit_scraper:   [OK] Salvo #54 — 'TikTok keeps flagging my cat rescue adoption videos as “sell'
+2026-03-07 19:22:50,909 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ofo61z/nobody_gives_you_the_real_secrets_for_free_i
+2026-03-07 19:22:54,477 [INFO] scraper.reddit_scraper:   [OK] Salvo #55 — 'Nobody gives you the real secrets for free, I learned it the'
+2026-03-07 19:22:58,188 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qyen94/tiktok_views_drop
+2026-03-07 19:23:03,079 [INFO] scraper.reddit_scraper:   [OK] Salvo #56 — 'TikTok views drop'
+2026-03-07 19:23:07,671 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rbpuel/the_silent_scroll_that_costs_you_thousands
+2026-03-07 19:23:10,894 [INFO] scraper.reddit_scraper:   [OK] Salvo #57 — 'The Silent Scroll That Costs You Thousands'
+2026-03-07 19:23:15,124 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'algorithm update' → https://www.reddit.com/r/TikTokMonetizing/search/?q=algorithm+update&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:23:37,248 [INFO] scraper.reddit_scraper:   → 9 links coletados para r/TikTokMonetizing | 'algorithm update'
+2026-03-07 19:23:37,295 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pugwye/need_help
+2026-03-07 19:23:41,826 [INFO] scraper.reddit_scraper:   [OK] Salvo #58 — 'Need Help'
+2026-03-07 19:23:44,855 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qzfozn/does_tiktok_have_a_calibration_period_after_a
+2026-03-07 19:23:48,490 [INFO] scraper.reddit_scraper:   [OK] Salvo #59 — 'Does TikTok have a “calibration” period after a breakout per'
+2026-03-07 19:23:51,811 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qsmih5/im_so_frustrated
+2026-03-07 19:23:55,543 [INFO] scraper.reddit_scraper:   [OK] Salvo #60 — 'I’m so frustrated'
+2026-03-07 19:23:58,037 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qnfln9/there_50_and_200_in_the_sample_photos_because
+2026-03-07 19:24:02,593 [INFO] scraper.reddit_scraper:   [OK] Salvo #61 — 'There $50 and $200 in the sample photos because that’s all y'
+2026-03-07 19:24:05,829 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qoqacc/are_engagement_metrics_lagging_or_did_tiktok_tank
+2026-03-07 19:24:09,050 [INFO] scraper.reddit_scraper:   [OK] Salvo #62 — 'Are engagement metrics lagging? Or did TikTok tank my video?'
+2026-03-07 19:24:14,072 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'TikTok shadowban' → https://www.reddit.com/r/TikTokMonetizing/search/?q=TikTok+shadowban&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:24:34,577 [INFO] scraper.reddit_scraper:   → 27 links coletados para r/TikTokMonetizing | 'TikTok shadowban'
+2026-03-07 19:24:34,624 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1p9nk5a/is_there_any_way_to_recover_a_shadowbanned
+2026-03-07 19:24:38,255 [INFO] scraper.reddit_scraper:   [OK] Salvo #63 — 'Is there any way to recover a shadowbanned account? Reason: '
+2026-03-07 19:24:40,786 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1oun1cg/is_this_a_shadowban
+2026-03-07 19:24:44,064 [INFO] scraper.reddit_scraper:   [OK] Salvo #64 — 'Is this a Shadowban ??'
+2026-03-07 19:24:47,020 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ogmvan/is_this_normal_or_am_i_shadowbanned
+2026-03-07 19:24:50,524 [INFO] scraper.reddit_scraper:   [OK] Salvo #65 — 'is this normal or am i shadowbanned?'
+2026-03-07 19:24:54,467 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r3lk3b/creating_a_tiktok_account_from_india_without
+2026-03-07 19:24:57,617 [INFO] scraper.reddit_scraper:   [OK] Salvo #66 — 'Creating a TikTok Account from India Without Getting Banned '
+2026-03-07 19:25:01,739 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ow6yig/why_youre_stuck_with_0_views_and_how_to_fix_it_ps
+2026-03-07 19:25:05,664 [INFO] scraper.reddit_scraper:   [OK] Salvo #67 — 'Why you're stuck with 0 views and how to fix it (P.S. it's n'
+2026-03-07 19:25:10,346 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1phfytm/do_creating_account_on_web_instantly_shadowban
+2026-03-07 19:25:15,524 [INFO] scraper.reddit_scraper:   [OK] Salvo #68 — 'Do creating account on web instantly shadow-ban the profile?'
+2026-03-07 19:25:18,943 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1plpp8r/how_to_monetize_tiktok_if_i_live_in_an_ineligible
+2026-03-07 19:25:22,652 [INFO] scraper.reddit_scraper:   [OK] Salvo #69 — 'How to monetize TikTok if I live in an ineligible country?'
+2026-03-07 19:25:27,693 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1p7wh4j/how_to_manage_100_tiktok_and_instagram_pages
+2026-03-07 19:25:31,778 [INFO] scraper.reddit_scraper:   [OK] Salvo #70 — 'How to manage 100+ TikTok and Instagram pages without restri'
+2026-03-07 19:25:34,252 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r1w5j3/tiktok_doesnt_supress_your_videos
+2026-03-07 19:25:38,401 [INFO] scraper.reddit_scraper:   [OK] Salvo #71 — '"Tiktok doesn't supress your videos"'
+2026-03-07 19:25:42,244 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qzadg9/starting_a_new_acc_for_digital_products_usuk
+2026-03-07 19:25:46,709 [INFO] scraper.reddit_scraper:   [OK] Salvo #72 — 'Starting a new acc for digital products (US/UK target) - How'
+2026-03-07 19:25:50,015 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rg35yw/im_a_multimillionview_content_creator_on_tiktok
+2026-03-07 19:25:55,136 [INFO] scraper.reddit_scraper:   [OK] Salvo #73 — 'I’m a multimillion-view content creator on TikTok, and I got'
+2026-03-07 19:25:58,274 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1p9vgvk/should_i_still_use_tiktok
+2026-03-07 19:26:02,963 [INFO] scraper.reddit_scraper:   [OK] Salvo #74 — 'Should I still use TikTok?'
+2026-03-07 19:26:06,874 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r27qll/is_tiktok_prioritizing_new_accounts_over
+2026-03-07 19:26:09,772 [INFO] scraper.reddit_scraper:   [OK] Salvo #75 — 'Is TikTok prioritizing new accounts over established ones ri'
+2026-03-07 19:26:12,805 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rf94zw/where_can_i_buy_tiktok_comments_that_look_real
+2026-03-07 19:26:15,570 [INFO] scraper.reddit_scraper:   [OK] Salvo #76 — 'Where Can I Buy TikTok Comments That Look Real? Looking for '
+2026-03-07 19:26:17,876 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1p2b0wz/is_my_profile_shadowbanned
+2026-03-07 19:26:23,323 [INFO] scraper.reddit_scraper:   [OK] Salvo #77 — 'Is my profile shadowbanned?'
+2026-03-07 19:26:26,874 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1n6dos3/need_to_buy_tiktok_followers_and_likes_whats_the
+2026-03-07 19:26:30,179 [INFO] scraper.reddit_scraper:   [OK] Salvo #78 — 'Need to buy TikTok followers and likes - what's the best ser'
+2026-03-07 19:26:32,991 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1orvqvk/tax_id
+2026-03-07 19:26:35,850 [INFO] scraper.reddit_scraper:   [OK] Salvo #79 — 'TAX ID'
+2026-03-07 19:26:38,313 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1oouzrs/am_i_able_to_run_a_us_tiktok_business_centre
+2026-03-07 19:26:41,812 [INFO] scraper.reddit_scraper:   [OK] Salvo #80 — 'Am I able to run a US tiktok business centre account whilst '
+2026-03-07 19:26:44,110 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qi365y/new_tiktokr
+2026-03-07 19:26:46,714 [INFO] scraper.reddit_scraper:   [OK] Salvo #81 — 'New TikTok’r'
+2026-03-07 19:26:49,919 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qwvhmu/posts_getting_0_views
+2026-03-07 19:26:53,318 [INFO] scraper.reddit_scraper:   [OK] Salvo #82 — 'Posts getting 0 views…'
+2026-03-07 19:26:56,768 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r704ur/tiktok_shadowbanned
+2026-03-07 19:27:01,720 [INFO] scraper.reddit_scraper:   [OK] Salvo #83 — 'TikTok Shadowbanned'
+2026-03-07 19:27:05,023 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'shadow banned' → https://www.reddit.com/r/TikTokMonetizing/search/?q=shadow+banned&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:27:25,756 [INFO] scraper.reddit_scraper:   → 23 links coletados para r/TikTokMonetizing | 'shadow banned'
+2026-03-07 19:27:25,802 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rmvzlk/my_tiktok_account_shadow_banned_how_to_fix_help
+2026-03-07 19:27:30,538 [INFO] scraper.reddit_scraper:   [OK] Salvo #84 — 'My TikTok account shadow banned. How to fix? Help me pls!'
+2026-03-07 19:27:34,084 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qxbuca/am_i_shadow_banned
+2026-03-07 19:27:39,468 [INFO] scraper.reddit_scraper:   [OK] Salvo #85 — 'Am i shadow banned?'
+2026-03-07 19:27:43,512 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qz0g90/am_i_shadow_banned
+2026-03-07 19:27:48,219 [INFO] scraper.reddit_scraper:   [OK] Salvo #86 — 'Am I shadow banned?'
+2026-03-07 19:27:50,461 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ppttqs/tiktok_accounts_broken_2fa_stuck_and_shadow_ban
+2026-03-07 19:27:54,404 [INFO] scraper.reddit_scraper:   [OK] Salvo #87 — 'TikTok Accounts "broken"? 2FA stuck and shadow ban?'
+2026-03-07 19:27:58,318 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rfeeag/please_go_repost_on_my_acc_serious_world_topics
+2026-03-07 19:28:03,135 [INFO] scraper.reddit_scraper:   [OK] Salvo #88 — 'please go repost on my acc. serious world topics being shado'
+2026-03-07 19:28:07,317 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rf1si2/will_botting_my_account_to_1k_followers_shadow
+2026-03-07 19:28:12,163 [INFO] scraper.reddit_scraper:   [OK] Salvo #89 — 'Will botting my account to 1k followers shadow ban me or hav'
+2026-03-07 19:28:16,612 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r3hs4c/caution_against_using_certain_words
+2026-03-07 19:28:19,906 [INFO] scraper.reddit_scraper:   [OK] Salvo #90 — 'Caution Against Using Certain Words??'
+2026-03-07 19:28:22,628 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1plloux/im_trying_to_understand_what_people_actually
+2026-03-07 19:28:26,043 [INFO] scraper.reddit_scraper:   [OK] Salvo #91 — 'I’m trying to understand what people actually struggle with '
+2026-03-07 19:28:28,800 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pq7w1u/should_i_start_or
+2026-03-07 19:28:33,330 [INFO] scraper.reddit_scraper:   [OK] Salvo #92 — 'Should I start or??'
+2026-03-07 19:28:37,510 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pezupn/what_am_i_doing_wrong
+2026-03-07 19:28:40,895 [INFO] scraper.reddit_scraper:   [OK] Salvo #93 — 'What Am I doing Wrong?'
+2026-03-07 19:28:43,274 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1oq9e5y/low_views
+2026-03-07 19:28:48,314 [INFO] scraper.reddit_scraper:   [OK] Salvo #94 — 'Low Views'
+2026-03-07 19:28:50,709 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1poqxar/sub_suggestion_ban_all_where_to_buy
+2026-03-07 19:28:54,880 [INFO] scraper.reddit_scraper:   [OK] Salvo #95 — 'Sub suggestion - BAN all "where to buy views/followers" post'
+2026-03-07 19:28:59,225 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rmdkce/new_tiktok_0_views
+2026-03-07 19:29:02,868 [INFO] scraper.reddit_scraper:   [OK] Salvo #96 — 'New tiktok 0 Views'
+2026-03-07 19:29:05,063 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rlsf1g/0_views_on_every_upload_for_almost_2_weeks
+2026-03-07 19:29:08,353 [INFO] scraper.reddit_scraper:   [OK] Salvo #97 — '0 views on every upload for almost 2 weeks'
+2026-03-07 19:29:12,583 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1po3aln/i_need_advice_on_how_to_increase_my_accounts
+2026-03-07 19:29:16,698 [INFO] scraper.reddit_scraper:   [OK] Salvo #98 — 'I need advice on how to increase my account's followers'
+2026-03-07 19:29:19,198 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r0cdpj/tiktok_from_india
+2026-03-07 19:29:23,840 [INFO] scraper.reddit_scraper:   [OK] Salvo #99 — 'Tiktok from India'
+2026-03-07 19:29:27,942 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rcjy68/seeking_a_us_ceo
+2026-03-07 19:29:31,075 [INFO] scraper.reddit_scraper:   [OK] Salvo #100 — 'Seeking a US CEO'
+2026-03-07 19:29:34,166 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'account restricted' → https://www.reddit.com/r/TikTokMonetizing/search/?q=account+restricted&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:29:56,456 [INFO] scraper.reddit_scraper:   → 29 links coletados para r/TikTokMonetizing | 'account restricted'
+2026-03-07 19:29:56,498 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rlkz09/how_to_not_get_restricted
+2026-03-07 19:29:59,726 [INFO] scraper.reddit_scraper:   [OK] Salvo #101 — 'How to not get restricted ? :'
+2026-03-07 19:30:03,713 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rnhpxw/monetizing_country_change
+2026-03-07 19:30:07,418 [INFO] scraper.reddit_scraper:   [OK] Salvo #102 — 'Monetizing Country Change'
+2026-03-07 19:30:10,575 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1nj2ys5/age_verification
+2026-03-07 19:30:13,958 [INFO] scraper.reddit_scraper:   [OK] Salvo #103 — 'Age verification'
+2026-03-07 19:30:17,043 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r8dy35/my_tiktok_account_of_6_years_got_age
+2026-03-07 19:30:19,814 [INFO] scraper.reddit_scraper:   [OK] Salvo #104 — 'My TikTok account of 6 years got age restricted...WHYYY??'
+2026-03-07 19:30:22,308 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qwf0qu/capped_uploads
+2026-03-07 19:30:26,469 [INFO] scraper.reddit_scraper:   [OK] Salvo #105 — 'Capped uploads'
+2026-03-07 19:30:30,742 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pjbi77/permanently_restricted_from_selling_products_in
+2026-03-07 19:30:35,844 [INFO] scraper.reddit_scraper:   [OK] Salvo #106 — '“Permanently restricted from selling products in your showca'
+2026-03-07 19:30:38,731 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r2hpc3/what_should_i_do_was_thinking_in_making_the_video
+2026-03-07 19:30:42,629 [INFO] scraper.reddit_scraper:   [OK] Salvo #107 — 'What should i do? Was thinking in making the video private a'
+2026-03-07 19:30:45,174 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1p7uvuq/how_long_will_i_be_restricted_for
+2026-03-07 19:30:47,882 [INFO] scraper.reddit_scraper:   [OK] Salvo #108 — 'How long will i be restricted for?'
+2026-03-07 19:30:51,913 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pr9mr9/age_restriction_appeal_questions
+2026-03-07 19:30:57,282 [INFO] scraper.reddit_scraper:   [OK] Salvo #109 — 'Age Restriction Appeal Questions'
+2026-03-07 19:31:01,415 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r0a0dk/people_with_nonus_accounts_are_you_having_the
+2026-03-07 19:31:06,095 [INFO] scraper.reddit_scraper:   [OK] Salvo #110 — 'People with non-US accounts: are you having the same issue?'
+2026-03-07 19:31:09,818 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r87w76/im_permanently_banned_from_sending_dm_and_now_it
+2026-03-07 19:31:14,779 [INFO] scraper.reddit_scraper:   [OK] Salvo #111 — 'Im permanently banned from sending DM and now it says tempor'
+2026-03-07 19:31:17,511 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rjsuqg/what_does_this_even_mean
+2026-03-07 19:31:21,707 [INFO] scraper.reddit_scraper:   [OK] Salvo #112 — 'What does this even mean'
+2026-03-07 19:31:26,171 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qc96iy/help_me_get_my_tik_tok_account_un_age_restricted
+2026-03-07 19:31:29,309 [INFO] scraper.reddit_scraper:   [OK] Salvo #113 — 'Help me get my tik tok account un age restricted'
+2026-03-07 19:31:33,524 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1plkz5f/tiktok_reach_suddenly_dropped_to_0_views_after
+2026-03-07 19:31:36,285 [INFO] scraper.reddit_scraper:   [OK] Salvo #114 — 'TikTok reach suddenly dropped to 0 views after strike (appea'
+2026-03-07 19:31:39,789 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rc7bdj/video_removed_from_fyp_appeal_approved_should_i
+2026-03-07 19:31:43,970 [INFO] scraper.reddit_scraper:   [OK] Salvo #115 — 'Video removed from FYP, appeal approved. Should I repost?'
+2026-03-07 19:31:46,113 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1p8hbyv/my_account_is_dead
+2026-03-07 19:31:49,033 [INFO] scraper.reddit_scraper:   [OK] Salvo #116 — 'My account is DEAD..'
+2026-03-07 19:31:51,875 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rnnavd/join_creator_network_now
+2026-03-07 19:31:56,210 [INFO] scraper.reddit_scraper:   [OK] Salvo #117 — 'Join Creator Network Now!'
+2026-03-07 19:32:01,225 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1o239rb/tiktok_shop_affiliate_approval
+2026-03-07 19:32:05,775 [INFO] scraper.reddit_scraper:   [OK] Salvo #118 — 'TikTok Shop Affiliate Approval'
+2026-03-07 19:32:08,991 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1olnfkx/looking_to_buy_an_organically_grown_tiktok
+2026-03-07 19:32:12,268 [INFO] scraper.reddit_scraper:   [OK] Salvo #119 — 'Looking to buy an organically grown TikTok account (1k+ foll'
+2026-03-07 19:32:16,510 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1q87y7l/tiktok_account_restored_but_device_still_blocked
+2026-03-07 19:32:19,814 [INFO] scraper.reddit_scraper:   [OK] Salvo #120 — 'TikTok account restored, but device still blocked – has anyo'
+2026-03-07 19:32:23,404 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ra1od6/videos_suddenly_unavailable_for_some_users_after
+2026-03-07 19:32:26,761 [INFO] scraper.reddit_scraper:   [OK] Salvo #121 — 'Videos suddenly “unavailable” for some users after good perf'
+2026-03-07 19:32:30,729 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pvie6m/banned_from_tiktok_shop_for_no_reason
+2026-03-07 19:32:35,913 [INFO] scraper.reddit_scraper:   [OK] Salvo #122 — 'Banned from TikTok shop for no reason'
+2026-03-07 19:32:40,067 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1q4pi2v/where_can_i_find_someone_who_really_understands
+2026-03-07 19:32:43,191 [INFO] scraper.reddit_scraper:   [OK] Salvo #123 — 'Where can I find someone who really understands TikTok growt'
+2026-03-07 19:32:46,120 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pv6hoy/ineligible_for_recommendation_issue
+2026-03-07 19:32:51,198 [INFO] scraper.reddit_scraper:   [OK] Salvo #124 — 'Ineligible for recommendation issue'
+2026-03-07 19:32:54,140 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qrbhrl/joining_titktok_as_a_content_creator
+2026-03-07 19:32:59,773 [INFO] scraper.reddit_scraper:   [OK] Salvo #125 — 'Joining Titktok as a content creator'
+2026-03-07 19:33:04,487 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'views dropped' → https://www.reddit.com/r/TikTokMonetizing/search/?q=views+dropped&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:33:20,027 [INFO] scraper.reddit_scraper:   → 40 links coletados para r/TikTokMonetizing | 'views dropped'
+2026-03-07 19:33:20,084 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rl5zzo/anyone_else_struggling_with_views_today
+2026-03-07 19:33:25,643 [INFO] scraper.reddit_scraper:   [OK] Salvo #126 — 'anyone else struggling with views today?'
+2026-03-07 19:33:28,411 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qmd5bb/13_millions_views_in_3days_disqualified
+2026-03-07 19:33:33,449 [INFO] scraper.reddit_scraper:   [OK] Salvo #127 — '13 millions views in 3days, disqualified'
+2026-03-07 19:33:37,479 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rfib8p/has_anyone_else_noticed_tiktok_views_go_down_a
+2026-03-07 19:33:41,163 [INFO] scraper.reddit_scraper:   [OK] Salvo #128 — 'Has anyone else noticed TikTok views go down a lot the later'
+2026-03-07 19:33:43,689 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r1hy15/views_gone_down_drastically_after_getting
+2026-03-07 19:33:47,042 [INFO] scraper.reddit_scraper:   [OK] Salvo #129 — 'Views gone down drastically after getting monetized'
+2026-03-07 19:33:50,802 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rknt7d/has_anyone_posted_a_video_today_0304_that_is_not
+2026-03-07 19:33:55,978 [INFO] scraper.reddit_scraper:   [OK] Salvo #130 — 'Has anyone posted a video today 03/04 that is not stuck at z'
+2026-03-07 19:33:58,412 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rk069i/does_anyone_experiencing_weird_low_views
+2026-03-07 19:34:04,009 [INFO] scraper.reddit_scraper:   [OK] Salvo #131 — 'Does anyone experiencing weird low views?'
+2026-03-07 19:34:08,968 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qlsl6m/stuck_under_1k_views_until_i_realized_i_was
+2026-03-07 19:34:12,667 [INFO] scraper.reddit_scraper:   [OK] Salvo #132 — 'Stuck under 1k views until I realized I was fixing the wrong'
+2026-03-07 19:34:15,892 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qopfov/video_views_dropped_from_470k_to_340k
+2026-03-07 19:34:20,653 [INFO] scraper.reddit_scraper:   [OK] Salvo #133 — 'Video views dropped from 470k to 340k'
+2026-03-07 19:34:22,785 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qgdsk1/tiktok_views_dropping_after_a_few_days_any_panel
+2026-03-07 19:34:26,078 [INFO] scraper.reddit_scraper:   [OK] Salvo #134 — 'TikTok views dropping after a few days – any panel that stil'
+2026-03-07 19:34:29,832 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rmb3du/from_500k_to_300_views
+2026-03-07 19:34:35,219 [INFO] scraper.reddit_scraper:   [OK] Salvo #135 — 'From 500k to 300 views!?🤷‍♂️'
+2026-03-07 19:34:39,257 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qxpplq/still_not_getting_the_views_i_was
+2026-03-07 19:34:44,233 [INFO] scraper.reddit_scraper:   [OK] Salvo #136 — 'Still not getting the views I was?'
+2026-03-07 19:34:46,568 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qolcjl/tiktok_0_views_problem_is_fixed
+2026-03-07 19:34:50,572 [INFO] scraper.reddit_scraper:   [OK] Salvo #137 — 'Tiktok 0 Views Problem is fixed'
+2026-03-07 19:34:53,823 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1py6355/have_you_noticed_a_drop_in_your_views_after
+2026-03-07 19:34:57,794 [INFO] scraper.reddit_scraper:   [OK] Salvo #138 — 'Have you noticed a drop in your views after getting accepted'
+2026-03-07 19:35:00,653 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r6q9zk/im_stuck_at_low_views
+2026-03-07 19:35:03,476 [INFO] scraper.reddit_scraper:   [OK] Salvo #139 — 'Im stuck at low views'
+2026-03-07 19:35:07,319 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qv17oy/i_dont_now_what_to_do_anymore
+2026-03-07 19:35:12,093 [INFO] scraper.reddit_scraper:   [OK] Salvo #140 — 'I don’t now what to do anymore'
+2026-03-07 19:35:15,684 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r4x3u5/views_are_glitching_again
+2026-03-07 19:35:21,191 [INFO] scraper.reddit_scraper:   [OK] Salvo #141 — 'Views are glitching again'
+2026-03-07 19:35:23,337 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qo900s/is_anyone_getting_views_again
+2026-03-07 19:35:28,624 [INFO] scraper.reddit_scraper:   [OK] Salvo #142 — 'Is anyone getting views again?'
+2026-03-07 19:35:31,822 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r2ggkv/is_posting_still_a_lost_cause_for_anyone
+2026-03-07 19:35:35,321 [INFO] scraper.reddit_scraper:   [OK] Salvo #143 — 'Is posting still a lost cause for anyone?'
+2026-03-07 19:35:38,856 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qfpmgk/tiktok_views_drop
+2026-03-07 19:35:41,792 [INFO] scraper.reddit_scraper:   [OK] Salvo #144 — 'TikTok views drop 🙃'
+2026-03-07 19:35:46,783 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1q31wgz/anyone_can_explain_to_me_why_no_more_views_after
+2026-03-07 19:35:52,109 [INFO] scraper.reddit_scraper:   [OK] Salvo #145 — 'Anyone can explain to me why no more views after day1? Accou'
+2026-03-07 19:35:54,422 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1q674pw/making_33p_day_views_dropped_loads_still_the_same
+2026-03-07 19:35:59,998 [INFO] scraper.reddit_scraper:   [OK] Salvo #146 — 'Making 33p day. Views dropped loads. Still the same content '
+2026-03-07 19:36:04,004 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ohhnjz/views_drop_off
+2026-03-07 19:36:08,304 [INFO] scraper.reddit_scraper:   [OK] Salvo #147 — 'Views drop off'
+2026-03-07 19:36:13,237 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qjus0y/why_does_this_keep_happening_to_me_after_several
+2026-03-07 19:36:18,423 [INFO] scraper.reddit_scraper:   [OK] Salvo #148 — 'Why does this keep happening to me? After several videos wit'
+2026-03-07 19:36:22,456 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1q8axas/0_views_and_sudden_drop_in_engagement
+2026-03-07 19:36:25,885 [INFO] scraper.reddit_scraper:   [OK] Salvo #149 — '0 views and sudden drop in engagement'
+2026-03-07 19:36:28,924 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pu5iik/should_i_stop_posting_twice_a_day_views_only
+2026-03-07 19:36:34,266 [INFO] scraper.reddit_scraper:   [OK] Salvo #150 — 'Should I stop posting twice a day. Views only hitting 1000. '
+2026-03-07 19:36:39,215 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qqxgc4/inauthentic_views
+2026-03-07 19:36:43,477 [INFO] scraper.reddit_scraper:   [OK] Salvo #151 — 'Inauthentic Views??'
+2026-03-07 19:36:47,173 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pnj5ij/loosing_views_no_extra_rewards_making_2_a_day
+2026-03-07 19:36:52,750 [INFO] scraper.reddit_scraper:   [OK] Salvo #152 — 'Loosing views, no extra rewards. Making £2 a day. What do I '
+2026-03-07 19:36:55,592 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qnomez/i_analyzed_why_my_tiktoks_were_dying_after_300800
+2026-03-07 19:36:59,920 [INFO] scraper.reddit_scraper:   [OK] Salvo #153 — 'I analyzed why my TikToks were dying after 300–800 views and'
+2026-03-07 19:37:02,660 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pxpfn9/help_me
+2026-03-07 19:37:06,344 [INFO] scraper.reddit_scraper:   [OK] Salvo #154 — 'HELP Me'
+2026-03-07 19:37:10,785 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qgx5fe/what_id_tell_myself_before_posting_my_first_video
+2026-03-07 19:37:16,879 [INFO] scraper.reddit_scraper:   [OK] Salvo #155 — 'What I'd tell myself before posting my first video'
+2026-03-07 19:37:19,394 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rgi2n8/used_to_make_over_1000_a_month_all_the_time_for_2
+2026-03-07 19:37:22,476 [INFO] scraper.reddit_scraper:   [OK] Salvo #156 — 'Used to Make over £1000 a month all the time for 2 years. Th'
+2026-03-07 19:37:24,781 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'zero views' → https://www.reddit.com/r/TikTokMonetizing/search/?q=zero+views&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:37:40,975 [INFO] scraper.reddit_scraper:   → 40 links coletados para r/TikTokMonetizing | 'zero views'
+2026-03-07 19:37:41,017 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rmqlkl/very_great_engagement_but_low_views_still
+2026-03-07 19:37:44,918 [INFO] scraper.reddit_scraper:   [OK] Salvo #157 — 'Very great engagement but low views still?'
+2026-03-07 19:37:47,589 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qmzhsa/dont_delete_your_zero_view_videos_right_now
+2026-03-07 19:37:51,056 [INFO] scraper.reddit_scraper:   [OK] Salvo #158 — 'Don’t delete your zero view videos right now!!!'
+2026-03-07 19:37:56,085 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qnne2g/i_posted_yesterday_asking_what_yall_were_doing
+2026-03-07 19:38:00,856 [INFO] scraper.reddit_scraper:   [OK] Salvo #159 — 'I posted yesterday asking what ya'll were doing with your 0 '
+2026-03-07 19:38:04,936 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rk7hmg/0_views_videos_blowing_up
+2026-03-07 19:38:10,046 [INFO] scraper.reddit_scraper:   [OK] Salvo #160 — '0 views + videos blowing up'
+2026-03-07 19:38:15,092 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rjss1l/videos_posted_today_33_0_views
+2026-03-07 19:38:19,497 [INFO] scraper.reddit_scraper:   [OK] Salvo #161 — 'Videos posted today 3/3 , 0 views'
+2026-03-07 19:38:24,189 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qdlw1d/why_does_my_video_say_it_has_0_views_when_it_has
+2026-03-07 19:38:28,222 [INFO] scraper.reddit_scraper:   [OK] Salvo #162 — 'Why does my video say it has 0 views when it has 25k?'
+2026-03-07 19:38:33,023 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rac1bt/started_a_tiktok_for_communication_0_views_on
+2026-03-07 19:38:37,970 [INFO] scraper.reddit_scraper:   [OK] Salvo #163 — 'Started a tiktok for communication, 0 views on each videos, '
+2026-03-07 19:38:41,918 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qts1e4/youll_get_zero_views_as_long_as_you_keep_making
+2026-03-07 19:38:47,239 [INFO] scraper.reddit_scraper:   [OK] Salvo #164 — 'You’ll get zero views as long as you keep making neutral con'
+2026-03-07 19:38:51,999 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pwcov6/is_it_normal_to_have_most_something_like_2_out_of
+2026-03-07 19:38:54,719 [INFO] scraper.reddit_scraper:   [OK] Salvo #165 — 'Is it normal to have most (something like 2 out of every 3 v'
+2026-03-07 19:38:57,256 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qqgdj7/anybody_25th_got_updated_and_went_back_to_zero
+2026-03-07 19:39:01,109 [INFO] scraper.reddit_scraper:   [OK] Salvo #166 — 'Anybody 25th got updated and went back to zero ?'
+2026-03-07 19:39:03,815 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qn92gu/0_views_5_likes_3_comments
+2026-03-07 19:39:08,179 [INFO] scraper.reddit_scraper:   [OK] Salvo #167 — '0 views; 5 likes & 3 comments'
+2026-03-07 19:39:12,902 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1o7jf3b/20k_followers_but_no_views
+2026-03-07 19:39:16,907 [INFO] scraper.reddit_scraper:   [OK] Salvo #168 — '20k followers but no views'
+2026-03-07 19:39:20,534 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qoduj2/is_it_safe_to_post_now_or_still_0_views
+2026-03-07 19:39:25,060 [INFO] scraper.reddit_scraper:   [OK] Salvo #169 — 'Is it safe to post now? Or still 0 views'
+2026-03-07 19:39:27,953 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qmwczn/are_you_guys_waiting_for_tiktok_to_come_back_up
+2026-03-07 19:39:32,161 [INFO] scraper.reddit_scraper:   [OK] Salvo #170 — 'Are you guys waiting for Tiktok to come back up or deleting '
+2026-03-07 19:39:34,650 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qnx8kf/does_anyone_know
+2026-03-07 19:39:39,713 [INFO] scraper.reddit_scraper:   [OK] Salvo #171 — 'Does anyone know?'
+2026-03-07 19:39:42,240 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ng4j6m/how_to_convert_views_to_purchases
+2026-03-07 19:39:45,757 [INFO] scraper.reddit_scraper:   [OK] Salvo #172 — 'How to Convert Views to Purchases?'
+2026-03-07 19:39:50,065 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r5xi9x/im_a_youtuber_how_does_tiktok_work_my_stuff_is
+2026-03-07 19:39:53,486 [INFO] scraper.reddit_scraper:   [OK] Salvo #173 — 'I'm a YouTuber how does TikTok work? My stuff is all getting'
+2026-03-07 19:39:56,929 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qmob3j/nooo_tiktok_glitch_of_2026
+2026-03-07 19:40:00,938 [INFO] scraper.reddit_scraper:   [OK] Salvo #174 — 'Nooo! TikTok glitch of 2026!!'
+2026-03-07 19:40:05,653 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rnmeau/tiktoks_ai_moderation_is_incorrectly_flagging
+2026-03-07 19:40:08,882 [INFO] scraper.reddit_scraper:   [OK] Salvo #175 — 'TikTok’s AI moderation is incorrectly flagging original vide'
+2026-03-07 19:40:11,267 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1q1io6b/has_anyone_tried_buying_tiktok_views_real
+2026-03-07 19:40:14,069 [INFO] scraper.reddit_scraper:   [OK] Salvo #176 — 'Has Anyone Tried Buying TikTok Views? Real Experiences & Rec'
+2026-03-07 19:40:18,920 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1q0na7a/confused_12k_views_but_0
+2026-03-07 19:40:23,799 [INFO] scraper.reddit_scraper:   [OK] Salvo #177 — 'Confused - 12k Views but $0'
+2026-03-07 19:40:26,196 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ooftd7/confused_by_practically_0_reach_on_videos
+2026-03-07 19:40:29,103 [INFO] scraper.reddit_scraper:   [OK] Salvo #178 — 'Confused by practically 0 reach on videos'
+2026-03-07 19:40:33,414 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qn4clr/ticktock_0_views
+2026-03-07 19:40:38,694 [INFO] scraper.reddit_scraper:   [OK] Salvo #179 — 'Ticktock 0 views'
+2026-03-07 19:40:41,588 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r1bn2w/about_additional_rewards
+2026-03-07 19:40:46,935 [INFO] scraper.reddit_scraper:   [OK] Salvo #180 — 'about additional rewards'
+2026-03-07 19:40:51,945 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'not on FYP' → https://www.reddit.com/r/TikTokMonetizing/search/?q=not+on+FYP&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:41:12,724 [INFO] scraper.reddit_scraper:   → 18 links coletados para r/TikTokMonetizing | 'not on FYP'
+2026-03-07 19:41:12,773 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1q6d5ze/my_video_is_not_allowed_to_be_viewed_on_fyp
+2026-03-07 19:41:17,061 [INFO] scraper.reddit_scraper:   [OK] Salvo #181 — 'My video is not allowed to be viewed on fyp?'
+2026-03-07 19:41:20,232 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qui6oo/anyone_have_luck_with_comedy
+2026-03-07 19:41:24,636 [INFO] scraper.reddit_scraper:   [OK] Salvo #182 — 'Anyone have luck with comedy?'
+2026-03-07 19:41:28,369 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pu8im4/tiktok_creator_program_not_paying_well_in_us
+2026-03-07 19:41:32,281 [INFO] scraper.reddit_scraper:   [OK] Salvo #183 — 'Tiktok Creator program Not Paying Well In US'
+2026-03-07 19:41:36,809 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r9xgd2/need_advice_my_tiktok_account_is_in_us_region_but
+2026-03-07 19:41:41,012 [INFO] scraper.reddit_scraper:   [OK] Salvo #184 — 'Need advice – My TikTok account is in US region but I live i'
+2026-03-07 19:41:45,457 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1oxz8dg/high_engagement_videos_not_being_pushed_out
+2026-03-07 19:41:49,146 [INFO] scraper.reddit_scraper:   [OK] Salvo #185 — 'high engagement videos not being pushed out'
+2026-03-07 19:41:52,035 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qmp35t/hey_guys_i_dont_think_we_need_to_worry_about_the
+2026-03-07 19:41:56,604 [INFO] scraper.reddit_scraper:   [OK] Salvo #186 — 'Hey guys I don’t think we need to worry about the monetizati'
+2026-03-07 19:41:58,957 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1q754xm/extreme_promote_hangover_0_views_after_a
+2026-03-07 19:42:04,343 [INFO] scraper.reddit_scraper:   [OK] Salvo #187 — 'Extreme "Promote Hangover": 0 Views after a high-performing '
+2026-03-07 19:42:08,977 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pkriik/this_tiktok_update_has_cooked_my_account
+2026-03-07 19:42:12,486 [INFO] scraper.reddit_scraper:   [OK] Salvo #188 — 'This TikTok update has cooked my account.'
+2026-03-07 19:42:15,248 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1otj20p/no_reach_all_of_a_sudden
+2026-03-07 19:42:17,948 [INFO] scraper.reddit_scraper:   [OK] Salvo #189 — 'No reach all of a sudden?'
+2026-03-07 19:42:21,309 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rci4ku/should_i_grow_originally_or_do_follow_for_follow
+2026-03-07 19:42:24,205 [INFO] scraper.reddit_scraper:   [OK] Salvo #190 — 'should I grow originally, or do follow for follow with other'
+2026-03-07 19:42:28,797 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1nf738i/how_to_spot_a_tiktok_trend_before_it_blows_up
+2026-03-07 19:42:32,001 [INFO] scraper.reddit_scraper:   [OK] Salvo #191 — 'How to spot a TikTok trend before it blows up?'
+2026-03-07 19:42:34,581 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1psptvk/ai_dance_tiktoks_inspired_by_luna_rayne_shes
+2026-03-07 19:42:39,167 [INFO] scraper.reddit_scraper:   [OK] Salvo #192 — 'AI Dance TikToks Inspired by Luna Rayne: She's Viral, Mine A'
+2026-03-07 19:42:42,092 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'reach down' → https://www.reddit.com/r/TikTokMonetizing/search/?q=reach+down&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:43:01,909 [INFO] scraper.reddit_scraper:   → 18 links coletados para r/TikTokMonetizing | 'reach down'
+2026-03-07 19:43:01,959 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ndvkw6/just_reached_1m_views_easy_method
+2026-03-07 19:43:06,224 [INFO] scraper.reddit_scraper:   [OK] Salvo #193 — 'Just reached 1M+ views. (Easy Method)'
+2026-03-07 19:43:10,926 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1oc3yjh/i_am_almost_at_10k_followers_99709985_but_my
+2026-03-07 19:43:15,639 [INFO] scraper.reddit_scraper:   [OK] Salvo #194 — 'I am almost at 10k followers 9970-9985 but my followers just'
+2026-03-07 19:43:20,241 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1nii3yp/wanna_create_diy_style_videos_on_tiktok_to
+2026-03-07 19:43:25,012 [INFO] scraper.reddit_scraper:   [OK] Salvo #195 — 'Wanna create DIY style videos on Tiktok to increase my monet'
+2026-03-07 19:43:29,528 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rmwj04/traffic
+2026-03-07 19:43:33,972 [INFO] scraper.reddit_scraper:   [OK] Salvo #196 — 'Traffic'
+2026-03-07 19:43:38,515 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r8kv5o/help_a_struggling_brother_trying_to_fulfill_his
+2026-03-07 19:43:41,539 [INFO] scraper.reddit_scraper:   [OK] Salvo #197 — 'Help a struggling brother trying to fulfill his goals'
+2026-03-07 19:43:44,194 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1otgk1a/how_to_get_noticed_as_a_small_creator_when_you
+2026-03-07 19:43:46,963 [INFO] scraper.reddit_scraper:   [OK] Salvo #198 — 'How to get noticed as a small creator when you have no crede'
+2026-03-07 19:43:50,321 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pfraco/where_can_i_buy_tiktok_followers_that_are_real
+2026-03-07 19:43:53,538 [INFO] scraper.reddit_scraper:   [OK] Salvo #199 — 'Where can I buy TikTok followers that are real and help with'
+2026-03-07 19:43:57,802 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r5ueif/where_are_you_getting_your_branding_deals_my_list
+2026-03-07 19:44:01,109 [INFO] scraper.reddit_scraper:   [OK] Salvo #200 — 'Where are you getting your branding deals? My list of "creat'
+2026-03-07 19:44:03,224 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qcak31/i_am_a_seller_on_the_tik_tok_shop_and_i_have_made
+2026-03-07 19:44:06,638 [INFO] scraper.reddit_scraper:   [OK] Salvo #201 — 'I am a seller on the Tik Tok shop and I have made a few sale'
+2026-03-07 19:44:08,843 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qackhi/struggling_to_get_any_traction_with_a_faceless
+2026-03-07 19:44:14,398 [INFO] scraper.reddit_scraper:   [OK] Salvo #202 — 'Struggling to get any traction with a faceless aesthetic acc'
+2026-03-07 19:44:16,771 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1p7mv3n/low_rpm
+2026-03-07 19:44:20,758 [INFO] scraper.reddit_scraper:   [OK] Salvo #203 — 'Low RPM'
+2026-03-07 19:44:24,877 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qa9m05/how_many_followers_can_you_buy_without_getting
+2026-03-07 19:44:30,094 [INFO] scraper.reddit_scraper:   [OK] Salvo #204 — 'How many followers can you BUY without getting kicked out of'
+2026-03-07 19:44:34,753 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1red4ru/where_can_i_buy_instagram_comments_that_feel_real
+2026-03-07 19:44:39,141 [INFO] scraper.reddit_scraper:   [OK] Salvo #205 — 'Where Can I Buy Instagram Comments That Feel Real and Natura'
+2026-03-07 19:44:44,001 [INFO] scraper.reddit_scraper: [BUSCA] r/TikTokMonetizing | 'retention rate' → https://www.reddit.com/r/TikTokMonetizing/search/?q=retention+rate&restrict_sr=1&t=year&sort=relevance
+2026-03-07 19:44:59,787 [INFO] scraper.reddit_scraper:   → 40 links coletados para r/TikTokMonetizing | 'retention rate'
+2026-03-07 19:44:59,828 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r8zb9w/06_rpm_with_98_percent_usa_audience
+2026-03-07 19:45:04,959 [INFO] scraper.reddit_scraper:   [OK] Salvo #206 — '.06 Rpm with 98 percent USA audience'
+2026-03-07 19:45:09,874 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1poj7h6/question_to_everyone_who_get_additional_rewards
+2026-03-07 19:45:12,672 [INFO] scraper.reddit_scraper:   [OK] Salvo #207 — 'Question to everyone who get additional rewards. Whats ur vi'
+2026-03-07 19:45:16,270 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r0amp2/holy_rpm
+2026-03-07 19:45:21,026 [INFO] scraper.reddit_scraper:   [OK] Salvo #208 — 'Holy rpm'
+2026-03-07 19:45:24,075 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rnjvln/this_has_to_be_a_joke
+2026-03-07 19:45:29,209 [INFO] scraper.reddit_scraper:   [OK] Salvo #209 — 'This has to be a joke'
+2026-03-07 19:45:33,140 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rezxdo/so_frustrated_by_low_rpm
+2026-03-07 19:45:37,316 [INFO] scraper.reddit_scraper:   [OK] Salvo #210 — 'So frustrated by low RPM'
+2026-03-07 19:45:40,950 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rd82xe/wild_rpm
+2026-03-07 19:45:45,530 [INFO] scraper.reddit_scraper:   [OK] Salvo #211 — 'Wild RPM'
+2026-03-07 19:45:48,030 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1ri3kcz/no_additional_rewards_despite_decent_stats
+2026-03-07 19:45:52,404 [INFO] scraper.reddit_scraper:   [OK] Salvo #212 — 'No additional rewards despite decent stats…'
+2026-03-07 19:45:55,285 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qf0nea/help_getting_additional_rewards
+2026-03-07 19:45:58,035 [INFO] scraper.reddit_scraper:   [OK] Salvo #213 — 'Help getting additional rewards'
+2026-03-07 19:46:00,697 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r3te63/how_much_gaming_pays_mid_watchtime
+2026-03-07 19:46:04,091 [INFO] scraper.reddit_scraper:   [OK] Salvo #214 — 'How Much Gaming Pays (Mid Watchtime)'
+2026-03-07 19:46:08,841 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1re21r5/whats_going_on
+2026-03-07 19:46:13,141 [INFO] scraper.reddit_scraper:   [OK] Salvo #215 — 'What’s going on?'
+2026-03-07 19:46:17,287 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rff7w5/36m_views_in_3_days_realistic_path_to_monetization
+2026-03-07 19:46:21,789 [INFO] scraper.reddit_scraper:   [OK] Salvo #216 — '3.6M views in 3 days – realistic path to monetization?'
+2026-03-07 19:46:25,275 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1rkfq8q/i_found_out_the_secret_to_having_such_a_high_rpm
+2026-03-07 19:46:30,896 [INFO] scraper.reddit_scraper:   [OK] Salvo #217 — 'I found out the secret to having such a high RPM for everyon'
+2026-03-07 19:46:33,745 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pk56mz/my_est_rewards_are_lower_than_they_should_be
+2026-03-07 19:46:38,397 [INFO] scraper.reddit_scraper:   [OK] Salvo #218 — 'My est. rewards are lower than they should be based on the n'
+2026-03-07 19:46:41,333 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1r6c2kn/i_had_a_193_rpm_a_few_days_ago_now_06_with_the
+2026-03-07 19:46:45,091 [INFO] scraper.reddit_scraper:   [OK] Salvo #219 — 'I had a $1.93 RPM a few days ago now .06 with the same conte'
+2026-03-07 19:46:48,941 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pobrp9/for_those_of_you_whose_rpm_have_dropped
+2026-03-07 19:46:54,440 [INFO] scraper.reddit_scraper:   [OK] Salvo #220 — 'For those of you whose RPM have dropped significantly: now w'
+2026-03-07 19:46:56,505 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1pgcfyo/beginner_tiktok_content_strategy_that_actually
+2026-03-07 19:47:00,647 [INFO] scraper.reddit_scraper:   [OK] Salvo #221 — 'Beginner TikTok content strategy that actually works (not wh'
+2026-03-07 19:47:04,390 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qs8vze/help
+2026-03-07 19:47:08,358 [INFO] scraper.reddit_scraper:   [OK] Salvo #222 — 'Help'
+2026-03-07 19:47:13,032 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qu99sc/can_it_still_get_tractionseen_some_get_after_50
+2026-03-07 19:47:17,591 [INFO] scraper.reddit_scraper:   [OK] Salvo #223 — 'Can it still get traction,seen some get after 50 hours for s'
+2026-03-07 19:47:20,149 [INFO] scraper.reddit_scraper: [POST] https://www.reddit.com/r/TikTokMonetizing/comments/1qpq9zl/why_this_keep_happening_to_me_like_wtf
+2026-03-07 19:47:25,434 [INFO] scraper.reddit_scraper:   [OK] Salvo #224 — 'Why this keep happening to me like wtf ?'
