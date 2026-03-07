@@ -1,0 +1,13 @@
+PHASE_*.md
+
+# Dados gerados pelo pipeline (não versionar)
+data/
+logs/
+reports/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
